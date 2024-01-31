@@ -1,0 +1,1 @@
+This was a project I made a couple years ago, and at the time it was nothing but a text writer, couldn't open, save/save as. Today, 1/31/24, I decided to use chatgpt to write some code. It is now much better.
